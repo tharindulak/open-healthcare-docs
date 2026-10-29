@@ -8,7 +8,7 @@ model: unversioned
 home: solutions
 owners:
   team: healthcare-docs
-repo: wso2/open-healthcare-docs
+repo: tharindulak/open-healthcare-docs
 editLinks: false
 issues:
   repo: wso2/open-healthcare-docs
