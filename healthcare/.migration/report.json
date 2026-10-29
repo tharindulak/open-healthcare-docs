@@ -1,0 +1,154 @@
+{
+  "summary": {
+    "source": "wso2/open-healthcare-docs@41e321a39fd022051423a1be3b68bbd5c0f5804d",
+    "sourceKind": "docusaurus",
+    "edition": "_",
+    "legacyBase": "https://healthcare.docs.wso2.com/docs/",
+    "sidebar": "sidebars.ts (its object literal parsed, not run)",
+    "navPages": 55,
+    "sourceFiles": 103,
+    "stats": {
+      "pages": 80,
+      "partials": 0,
+      "apiPages": 0,
+      "images": 37,
+      "imageBytes": 14789522,
+      "unlisted": 25,
+      "links": 431,
+      "legacyLinks": 130,
+      "droppedLinks": 0,
+      "missingImages": 0,
+      "generatedDescriptions": 41,
+      "sidebarLabels": 7,
+      "components": {},
+      "paletteFallbacks": 0,
+      "acceptedByOverrides": 0,
+      "excludedPages": 23,
+      "legacyRedirects": 80
+    },
+    "issues": {
+      "sidebar": 10,
+      "description": 12
+    },
+    "compileFailures": 0,
+    "contentSafetyFindings": 0,
+    "overrides": {
+      "file": "healthcare.overrides.yaml",
+      "patches": 14,
+      "patchesApplied": 14,
+      "accepted": 0
+    }
+  },
+  "items": [
+    {
+      "kind": "sidebar",
+      "file": "get-started/architecture.md",
+      "message": "in the sidebar more than once; only the first entry (Get Started) is kept"
+    },
+    {
+      "kind": "sidebar",
+      "file": "install-and-setup/manual.md",
+      "message": "in the sidebar more than once; only the first entry (Install and Setup) is kept"
+    },
+    {
+      "kind": "sidebar",
+      "file": "fhir/guides/overview-of-fhir.md",
+      "message": "in the sidebar more than once; only the first entry (Working with FHIR) is kept"
+    },
+    {
+      "kind": "sidebar",
+      "file": "hl7/guides/overview.md",
+      "message": "in the sidebar more than once; only the first entry (Working with HL7) is kept"
+    },
+    {
+      "kind": "sidebar",
+      "file": "data-transformation/guides/hl7v2-fhir.md",
+      "message": "in the sidebar more than once; only the first entry (Data Transformation) is kept"
+    },
+    {
+      "kind": "sidebar",
+      "file": "emr-connectivity/guides/emr-systems-overview.md",
+      "message": "in the sidebar more than once; only the first entry (EMR Connectivity) is kept"
+    },
+    {
+      "kind": "sidebar",
+      "file": "secure-health-apis/guides/smart-on-fhir-overview.md",
+      "message": "in the sidebar more than once; only the first entry (Security & SMART on FHIR) is kept"
+    },
+    {
+      "kind": "sidebar",
+      "file": "performance/overview.md",
+      "message": "in the sidebar more than once; only the first entry (Performance) is kept"
+    },
+    {
+      "kind": "sidebar",
+      "file": "compliance/overview.md",
+      "message": "in the sidebar more than once; only the first entry (Compliance & Standards) is kept"
+    },
+    {
+      "kind": "sidebar",
+      "file": "advance-topics/overview.md",
+      "message": "in the sidebar more than once; only the first entry (Advanced Topics) is kept"
+    },
+    {
+      "kind": "description",
+      "file": "install-and-setup/deploy-fhir-apis.md",
+      "message": "description longer than 160 characters (177); one was generated from the first paragraph"
+    },
+    {
+      "kind": "description",
+      "file": "install-and-setup/updates/update-accelerators.md",
+      "message": "description longer than 160 characters (181); one was generated from the first paragraph"
+    },
+    {
+      "kind": "description",
+      "file": "data-transformation/guides/ccda-to-fhir.md",
+      "message": "description longer than 160 characters (176); one was generated from the first paragraph"
+    },
+    {
+      "kind": "description",
+      "file": "fhir/guides/connecting-ehr-emr-systems.md",
+      "message": "description longer than 160 characters (181); one was generated from the first paragraph"
+    },
+    {
+      "kind": "description",
+      "file": "fhir/guides/populating-fhir-resources.md",
+      "message": "description longer than 160 characters (188); one was generated from the first paragraph"
+    },
+    {
+      "kind": "description",
+      "file": "fhir/guides/profiles-and-extensions.md",
+      "message": "description longer than 160 characters (220); one was generated from the first paragraph"
+    },
+    {
+      "kind": "description",
+      "file": "fhir/guides/smart-api.md",
+      "message": "description longer than 160 characters (182); one was generated from the first paragraph"
+    },
+    {
+      "kind": "description",
+      "file": "fhir/guides/validation.md",
+      "message": "description longer than 160 characters (216); one was generated from the first paragraph"
+    },
+    {
+      "kind": "description",
+      "file": "hl7/guides/overview.md",
+      "message": "description longer than 160 characters (161); one was generated from the first paragraph"
+    },
+    {
+      "kind": "description",
+      "file": "secure-health-apis/guides/configure-smart-on-fhir.md",
+      "message": "description longer than 160 characters (212); one was generated from the first paragraph"
+    },
+    {
+      "kind": "description",
+      "file": "secure-health-apis/guides/smart-on-fhir-overview.md",
+      "message": "description longer than 160 characters (196); one was generated from the first paragraph"
+    },
+    {
+      "kind": "description",
+      "file": "configurations/email-notification.md",
+      "message": "description longer than 160 characters (185); one was generated from the first paragraph"
+    }
+  ]
+}

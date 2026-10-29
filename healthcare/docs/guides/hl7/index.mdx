@@ -1,0 +1,20 @@
+---
+title: Working with HL7 - Overview
+description: HL7v2 is a messaging standard developed by Health Level Seven International (HL7) for the electronic interchange of clinical, financial, and administrative…
+type: how-to
+---
+
+HL7v2 is a messaging standard developed by Health Level Seven International (HL7) for the electronic interchange of clinical, financial, and administrative data. HL7v2 messages are used to communicate information between systems in healthcare organizations. HL7v2 messages are sent over a variety of transports MLLP, and HTTP.
+
+HL7v2 messages are structured as a sequence of segments, where each segment contains one or more fields separated by delimiters. Each message type serves a specific purpose, such as patient admission, transfer, lab orders, etc. HL7v2 has several versions (e.g., v2.3, v2.5, v2.7), with v2.3 and v2.5 being the most widely adopted.
+
+WSO2 Open Healthcare supports multiple HL7v2 versions, allowing integration with various healthcare systems. It offers message routing, transformation, and validation capabilities, ensuring that HL7v2 messages are accurately processed and delivered.
+
+Follow the guides below to learn how to work with HL7 messages in WSO2 Open Healthcare:
+
+  - [Populating HL7 messages](./handling-hl7-messages/populating-hl7-message.mdx)
+  - [Parsing and Serializing](./handling-hl7-messages/parsing-and-serializing.mdx)
+  - [Customizing HL7 Messages](./handling-hl7-messages/custom-hl7-message.mdx)
+  - [Connect to HL7 TCP servers](./connecting-to-hl7-servers/connect-to-hl7-tcp-servers.mdx)
+  - [Connect to HL7 File servers](./connecting-to-hl7-servers/connect-to-hl7-file-servers.mdx)
+  - [HL7 server listener](./build-your-own-hl7-server/hl7-server-listener.mdx)
